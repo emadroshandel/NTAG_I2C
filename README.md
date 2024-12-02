@@ -99,6 +99,7 @@ void readPages(uint8_t startPage, uint8_t endPage) {
     }
 }
 ```
+### Functions required for writing:
 - Function to write to a single page:
 ```
 bool writePage(uint8_t page, const uint8_t *buffer) {
