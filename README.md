@@ -170,4 +170,4 @@ void i2cWriteOnNtag(){
 ```
 ## License
 
-[MIT License](https://github.com/emadroshandel/NTAG_I2C/blob/main/LICENSE Copyright (c) 2024 Emad Roshandel
+[MIT License](https://github.com/emadroshandel/NTAG_I2C/blob/main/LICENSE) Copyright (c) 2024 Emad Roshandel
